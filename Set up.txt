@@ -1,0 +1,17 @@
+Set up :
+
+https://huggingface.co/Sujii/MTSK
+
+start(bash):
+ollama serve
+
+load model(bash):
+ollama run hf.co/Sujii/MTSK:Q4_K_M
+
+in vs code:
+bash :
+cd "project/frontend"
+npm run dev
+
+for backend run python script directly......
+
